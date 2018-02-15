@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
     ,-----.,--.                  ,--. ,---.   ,--.,------.  ,------.
     '  .--./|  | ,---. ,--.,--. ,-|  || o   \  |  ||  .-.  \ |  .---'
@@ -37,3 +38,7 @@ To watch some training videos, visit http://www.youtube.com/user/c9ide
 
 We provide this demo workspace in order for you to experience the power of Cloud9. 
 It contains sample projects for Node.js, PHP, Python, Ruby, and HTML5.
+=======
+# demo-project-c9
+Project for demo features in c9
+>>>>>>> add602e7fadc205961735fe52b94e9327d20c608
