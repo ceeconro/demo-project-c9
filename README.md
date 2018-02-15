@@ -43,4 +43,4 @@ It contains sample projects for Node.js, PHP, Python, Ruby, and HTML5.
 Project for demo features in c9
 >>>>>>> add602e7fadc205961735fe52b94e9327d20c608
 
-test
+.git/config
